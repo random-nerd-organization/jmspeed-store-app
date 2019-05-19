@@ -1,0 +1,29 @@
+{
+  "name": "jmspeed-store-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/random-nerd-organization/jmspeed-store-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/random-nerd-organization/jmspeed-store-app/issues"
+  },
+  "homepage": "https://github.com/random-nerd-organization/jmspeed-store-app#readme",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-ejs": "^4.2.0",
+    "koa-router": "^7.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
